@@ -6,6 +6,7 @@
 <p align="center">A Modification of Minecraft Fabric Utility mod created By AlexanderMaxRanabel</p>
 
 You need Fabric to run it depending on version
+Supports addons
 
 Thx Meteor Developement for Original Meteor
 
